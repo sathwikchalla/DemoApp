@@ -15,6 +15,7 @@ public class PracString {
 		byte[] b= {65,66,67,68};
 		String s5=new String(ch);
 
+		
 		String s6=new String(b);
 		String s7=new String(s3);
 		System.out.println(s5);

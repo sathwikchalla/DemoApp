@@ -43,6 +43,7 @@ public class Prac0104 {
 		Demo0104 d=new Demo0104();
 		d.disp1();
 		int k=20;
+		
 		System.out.println(k);
 		Prac0104 p=new Prac0104();
 		p.b=300;
